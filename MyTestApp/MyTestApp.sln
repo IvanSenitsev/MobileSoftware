@@ -4,6 +4,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 15.0.27703.2000
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyTestApp.Android", "MyTestApp\MyTestApp.Android\MyTestApp.Android.csproj", "{AC31FA6E-BB3E-4847-A05C-ACB45AE9EDEE}"
+	ProjectSection(ProjectDependencies) = postProject
+		{A462CB5F-27A3-4AA2-B3F6-C069FC9FC92E} = {A462CB5F-27A3-4AA2-B3F6-C069FC9FC92E}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyTestApp.iOS", "MyTestApp\MyTestApp.iOS\MyTestApp.iOS.csproj", "{A462CB5F-27A3-4AA2-B3F6-C069FC9FC92E}"
 EndProject
