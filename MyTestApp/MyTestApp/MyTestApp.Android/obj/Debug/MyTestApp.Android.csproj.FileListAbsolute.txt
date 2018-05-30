@@ -1,0 +1,2 @@
+E:\My_Work\Xamarin\Udemy_Xamarin_Forms\MyTestApp\MyTestApp\MyTestApp.Android\obj\Debug\MyTestApp.Android.csprojAssemblyReference.cache
+E:\My_Work\Xamarin\Udemy_Xamarin_Forms\MyTestApp\MyTestApp\MyTestApp.Android\obj\Debug\MyTestApp.Android.csproj.CoreCompileInputs.cache
