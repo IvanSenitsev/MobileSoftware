@@ -895,11 +895,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\My_Work\\Xamarin\\Udemy_Xamarin_Forms\\MyTestApp\\MyTestApp\\MyTestApp.Android\\MyTestApp.Android.csproj",
+      "projectUniqueName": "E:\\My_Work\\GitHub\\MobileSoftware\\MyTestApp\\MyTestApp\\MyTestApp.Android\\MyTestApp.Android.csproj",
       "projectName": "MyTestApp.Android",
-      "projectPath": "E:\\My_Work\\Xamarin\\Udemy_Xamarin_Forms\\MyTestApp\\MyTestApp\\MyTestApp.Android\\MyTestApp.Android.csproj",
+      "projectPath": "E:\\My_Work\\GitHub\\MobileSoftware\\MyTestApp\\MyTestApp\\MyTestApp.Android\\MyTestApp.Android.csproj",
       "packagesPath": "C:\\Users\\Van\\.nuget\\packages\\",
-      "outputPath": "E:\\My_Work\\Xamarin\\Udemy_Xamarin_Forms\\MyTestApp\\MyTestApp\\MyTestApp.Android\\obj\\",
+      "outputPath": "E:\\My_Work\\GitHub\\MobileSoftware\\MyTestApp\\MyTestApp\\MyTestApp.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [

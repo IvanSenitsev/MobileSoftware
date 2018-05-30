@@ -13,8 +13,7 @@
 namespace MyTestApp {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("E:\\My_Work\\Xamarin\\Udemy_Xamarin_Forms\\MyTestApp\\MyTestApp\\MyTestApp\\MainPage.xam" +
-        "l")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("E:\\My_Work\\GitHub\\MobileSoftware\\MyTestApp\\MyTestApp\\MyTestApp\\MainPage.xaml")]
     public partial class MainPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]

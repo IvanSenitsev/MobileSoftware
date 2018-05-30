@@ -13,7 +13,7 @@
 namespace MyTestApp {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("E:\\My_Work\\Xamarin\\Udemy_Xamarin_Forms\\MyTestApp\\MyTestApp\\MyTestApp\\App.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("E:\\My_Work\\GitHub\\MobileSoftware\\MyTestApp\\MyTestApp\\MyTestApp\\App.xaml")]
     public partial class App : global::Xamarin.Forms.Application {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]

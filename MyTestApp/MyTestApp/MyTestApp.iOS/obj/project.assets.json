@@ -972,11 +972,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\My_Work\\Xamarin\\Udemy_Xamarin_Forms\\MyTestApp\\MyTestApp\\MyTestApp.iOS\\MyTestApp.iOS.csproj",
+      "projectUniqueName": "E:\\My_Work\\GitHub\\MobileSoftware\\MyTestApp\\MyTestApp\\MyTestApp.iOS\\MyTestApp.iOS.csproj",
       "projectName": "MyTestApp.iOS",
-      "projectPath": "E:\\My_Work\\Xamarin\\Udemy_Xamarin_Forms\\MyTestApp\\MyTestApp\\MyTestApp.iOS\\MyTestApp.iOS.csproj",
+      "projectPath": "E:\\My_Work\\GitHub\\MobileSoftware\\MyTestApp\\MyTestApp\\MyTestApp.iOS\\MyTestApp.iOS.csproj",
       "packagesPath": "C:\\Users\\Van\\.nuget\\packages\\",
-      "outputPath": "E:\\My_Work\\Xamarin\\Udemy_Xamarin_Forms\\MyTestApp\\MyTestApp\\MyTestApp.iOS\\obj\\",
+      "outputPath": "E:\\My_Work\\GitHub\\MobileSoftware\\MyTestApp\\MyTestApp\\MyTestApp.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
